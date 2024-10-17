@@ -11,7 +11,7 @@ This package simplifies the installation of shadcn in Shopify Hydrogen Remix pro
 To initialize shadcn:
 
 ```sh
-npx shadcn-hydrogen-setup shadcn:install
+npx shadcn-hydrogen-setup init
 ```
 
 This will initialize shadcn and automatically move components to the correct directory.
@@ -19,10 +19,10 @@ This will initialize shadcn and automatically move components to the correct dir
 To add a new component:
 
 ```sh
-npx shadcn@latest add button
+npx shadcn-hydrogen-setup add button
 ```
 
 After running the add command, components will also be moved to the correct place. 🎉
 
 ## 🔗 GitHub Repository
-[GitHub Repository](https://github.com/prodBirdy/shadcn-hydrogen-setup)
+[GitHub Repository](https://github.com/yourusername/shadcn-hydrogen-setup)
