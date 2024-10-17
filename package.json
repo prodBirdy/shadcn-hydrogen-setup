@@ -1,6 +1,6 @@
 {
   "name": "shadcn-hydrogen-setup",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Install shadcn for Shopify Hydrogen projects and organize components properly.",
   "main": "index.js",
   "bin": {
