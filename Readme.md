@@ -25,4 +25,4 @@ npx shadcn-hydrogen-setup add button
 After running the add command, components will also be moved to the correct place. 🎉
 
 ## 🔗 GitHub Repository
-[GitHub Repository](https://github.com/yourusername/shadcn-hydrogen-setup)
+[GitHub Repository](https://github.com/prodBirdy/shadcn-hydrogen-setup)
